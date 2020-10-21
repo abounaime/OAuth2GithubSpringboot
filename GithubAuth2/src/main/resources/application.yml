@@ -1,0 +1,1 @@
+server:  port: 8036  spring:  security:    oauth2:      client:        registration:          github:            client-id: b7730fb1303a3ad9eb7c            client-secret:   7366e44e9bef1dfceef30f000190bc97b0af5bb9
